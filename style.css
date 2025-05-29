@@ -9,12 +9,12 @@ header {
     background-color:aqua ;
     color: antiquewhite;
     text-align: center;
-    padding: 1.5 rem 1 rem;
+    padding: 1.5rem 1rem;
 }
 
 header h1 {
     margin: 0;
-    font-size: 2px;
+    font-size: 2rem;
 }
  
 main {
@@ -25,7 +25,7 @@ main {
 
 .intro {
     text-align: center;
-    padding: 2rem;
+    margin-bottom: 2rem;
 }
  
 .curiosidades {
@@ -33,6 +33,15 @@ main {
     flex-wrap: wrap;
     gap: 1rem;
     justify-content: center;
+}
+
+.curiosidades-card{
+    background-color: bisque;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0,1);
+    padding: 1rem;
+    width: 300px;
+    transition: transform 0,3s ease;
 }
 
 .curiosidades-card:hover {

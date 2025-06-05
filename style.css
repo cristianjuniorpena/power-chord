@@ -29,6 +29,9 @@ text-align: center;
 margin-bottom: 2rem;
 }
 
+.hero {
+    background-image: ;
+}
 .curiosidades {
 display: flex;
 flex-wrap: wrap;

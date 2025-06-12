@@ -8,9 +8,9 @@ color: #333;
 
 header {
 background-color: rgba(13, 21, 62, 0.067);
-color: rgb(37, 21, 81);
+color: rgb(255, 255, 255);
 text-align: center;
-padding: 1.5rem 1rem;
+padding: 2rem 1,5rem;
 }
 
 header h1 {

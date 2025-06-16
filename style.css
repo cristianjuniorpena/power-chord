@@ -13,9 +13,9 @@ text-align: center;
 padding: 1rem;
 }
 
-.navbar {
+.navbar a{
     list-style-type: none;
-    text-decoration-line: none;
+    text-decoration: none;
     display: block;
     margin: 1rem;
     padding: 1rem;

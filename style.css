@@ -15,6 +15,7 @@ padding: 1rem;
 
 .nav {
     text-decoration-line: none;
+    display: block;
     margin: 1rem;
     padding: 1rem;
 }

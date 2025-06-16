@@ -14,6 +14,7 @@ padding: 1rem;
 }
 
 .navbar {
+    list-style-type: none;
     text-decoration-line: none;
     display: block;
     margin: 1rem;

@@ -13,14 +13,6 @@ text-align: center;
 padding: 1rem;
 }
 
-.navbar {
-    list-style-type: none;
-    text-decoration: none;
-    display: block;
-    margin: 1rem;
-    padding: 1rem;
-}
-
 main {
 max-width: 1000px;
 margin: 2rem auto;
